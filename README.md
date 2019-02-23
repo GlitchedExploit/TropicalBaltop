@@ -3,9 +3,21 @@ TropicalBaltop is a PlaceholderAPI extension designed for TropicalMC (but any se
 
 Requires PlaceholderAPI and Vault
 
+TropicalBaltop adds placeholders which you can use in plugins that support PlaceholderAPI.
+TropicalBaltop asynchronously calculates the top balances, meaning it won't cause lag.
+
+I made this for my server because I couldn't find any plugins that did what I wanted.
+
+TropicalBaltop has only been tested in 1.13.2
+
+Installation:
+Make sure you have Vault and PlaceholderAPI
+Download the plugin and put it in your plugins folder
+Restart the server (if you are using a plugin to load TropicalBaltop make sure you use /papi reload
+
 Placeholders:
 %tropicalbaltop_baltop_<place>_user% - The username who has the <place> most money.
-%tropicalbatop_baltop_<place>_balance% - The money of the player who was the <place> most money.
+%tropicalbaltop_baltop_<place>_balance% - The money of the player who was the <place> most money.
 
 Examples:
 Assume these are the top 3 players:
