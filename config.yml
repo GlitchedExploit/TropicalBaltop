@@ -1,0 +1,2 @@
+decimalPlaces: 2 # The amount of decimals to include in the balance placeholder
+debug: false # Show debug messages

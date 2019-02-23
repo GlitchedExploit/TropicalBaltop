@@ -1,0 +1,7 @@
+name: TropicalBaltop
+version: 1.0
+author: Pixeler
+main: com.Pixeler.TropicalBaltop.TropicalBaltop
+description: Top balance placeholderapi extension for TropicalMC
+api-version: 1.13
+depend: [Vault, PlaceholderAPI]
